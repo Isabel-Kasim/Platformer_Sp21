@@ -7,7 +7,7 @@ using TMPro;
 public class TimeCount : MonoBehaviour
 {
     
-    float timeleft = 375.0f;
+    float timeleft = 100.0f;
     public TextMeshProUGUI text;
 
 
